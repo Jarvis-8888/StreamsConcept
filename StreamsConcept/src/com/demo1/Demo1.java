@@ -1,5 +1,8 @@
 package com.demo1;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class Demo1 {
 	
 	public static void main(String[] args) {
@@ -9,9 +12,7 @@ public class Demo1 {
 		System.out.println("Hello Demo1");
 		System.out.println("Hello Demo1");
 	
-		//chnages
-
-		//SDE making some changes
+		List<Integer> list = new ArrayList<>();
 	}
 
 }
